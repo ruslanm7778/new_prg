@@ -1,1 +1,2 @@
-# new_prg
+- [Preview](https://ruslanm7778.github.io/new_prg/)
+- [Pull Request](https://github.com/ruslanm7778/new_prg/pull/1/files)
